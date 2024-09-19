@@ -1,0 +1,8 @@
+POST https://book-api-well-poz6.onrender.com/books
+content-type: application/json
+
+{
+  "title": "Domain Drive Design",
+  "author": "Matheus",
+  "price": 88
+}
